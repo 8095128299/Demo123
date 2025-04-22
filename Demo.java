@@ -8,6 +8,7 @@ public class Demo {
         System.out.println("Simple java program");
         System.out.println("MAIN");
         System.out.println("Master");
+        System.out.println("Master branch");
 
         
     }
